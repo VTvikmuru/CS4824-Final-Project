@@ -1,0 +1,700 @@
+{"text": "The furthest or highest degree of something may be an appropriate definition of extreme.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A group of diverse companies under common ownership and run as a single organization may not be an appropriate definition of conglomerate in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Occasion does not refer to the time of a particular event.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Deck does never refer to a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows).", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Neighbour may commonly stand for a person who lives (or is located) near another.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "File does not stand for office furniture consisting of a container for keeping papers in order.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Tank refers to a swinging or sliding barrier that will close the entrance to a room or building or vehicle.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Calorie commonly refers to the act of performing.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "The discipline that records and interprets past events involving human beings is an appropriate definition of admission.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No initiative is a movement downward.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A ministry may not be the lines spoken by characters in drama or fiction.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No fall may be the season when the leaves fall from the trees.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Dog stands for a smooth-textured sausage of minced beef or pork usually smoked.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Poll may commonly stand for the counting of votes (as in an election).", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A loud utterance may be an appropriate definition of produce in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A guerrilla may commonly be a member of an irregular armed force that fights a stronger force by sabotage and harassment.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single passage is commonly a section of text.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No skin is commonly the rind of a fruit or vegetable.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Highlight is an appropriate hyponym of detail in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A relation may be a person related by blood or marriage.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No tragedy may commonly be adhesive tape used in dressing wounds.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A depository containing historical records and documents is never an appropriate definition of archive.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Employment and danger are synonyms in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Demand never stands for a consecrated place where sacred objects are kept.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts a point equidistant from the ends of a line or the extremities of a figure may be an appropriate definition of product.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Praise may commonly stand for a condition in which things are not in their expected places.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Vessel is never an appropriate hypernym of bath.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Coast commonly refers to a unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree at one atmosphere pressure.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Noise does never refer to someone who offers opposition.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts the visual percept of a region is an appropriate definition of electorate.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Velvet refers to a silky densely piled fabric with a plain back.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Symbol may refer to a diversion that occupies one's time and thoughts (usually pleasantly).", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A presentation for the stage or screen or radio or television is never an appropriate definition of production.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single earthquake is commonly shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Sweet fleshy red fruit is an appropriate definition of strawberry in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A witch is a female sorcerer or magician.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Someone who pays taxes is an appropriate definition of tail in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Pride may refer to someone whose occupation is catching fish.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No report may be a person authorized to conduct religious worship.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single chance may commonly be a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc..", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Any obstruction that impedes or is burdensome is not an appropriate definition of interference in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Freshman commonly stands for a first-year undergraduate.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A failure may not be classified as a grain in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single postcard is commonly a small portable battery-powered electric lamp.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Health never refers to a predisposition in favor of something.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A person who keeps watch over something or someone is an appropriate definition of equation in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Princess may not stand for a female member of a royal family other than the queen (especially the daughter of a sovereign).", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No machinery is commonly a manner that is serious and solemn.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers) may be an appropriate definition of host.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No chap is commonly a suite of rooms usually on one floor of an apartment house.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A person qualified to practice dentistry is never an appropriate definition of correspondence in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Dismissal commonly refers to official notice that you have been fired from your job.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A disorderly outburst or tumult may not be an appropriate definition of freckle.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "An occurrence that causes special pleasure or delight is not an appropriate definition of treat in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A brittle transparent solid with irregular atomic structure may be an appropriate definition of fair in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Shorts stands for the quotient obtained when the magnitude of a part is divided by the magnitude of the whole.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "The questioning of a person (or a conversation in which information is elicited) may be an appropriate definition of vote in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No cross is commonly a wooden structure consisting of an upright post with a transverse piece.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A zero is never a help.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts extensions may be part of discoveries.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A book of blank pages with pockets or envelopes is an appropriate definition of album in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single fence is commonly a barrier that serves to enclose an area.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Concretes may be made of sand.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Fair may not refer to horny plate covering and protecting part of the dorsal surface of the digits.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a psychological state induced by (or as if induced by) a magical incantation may be an appropriate definition of spell.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Discount does never stand for with handle and usually cylindrical.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No hemisphere may be the amount of 3-dimensional space occupied by an object.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "An extension is never part of a discovery.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A narrow opening may be an appropriate definition of gap in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A land may not be explosive device that explodes on contact.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "The ability to speak is not an appropriate definition of selection.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Memory refers to the power of retaining and recalling past experience.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single torch is commonly a light usually carried in the hand.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Scientist may not refer to a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A small area of ground covered by specific vegetation is not an appropriate definition of justice.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts a direct attack on an opponent's king may be an appropriate definition of elbow.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Whip never refers to a statement that is assumed to be true and from which a conclusion can be drawn.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No membership is commonly a business that serves other businesses.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Discourse that surrounds a language unit and helps to determine its interpretation may be an appropriate definition of context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A rule or body of rules of conduct inherent in human nature and essential to or binding upon human society may be an appropriate definition of withdrawal in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Bowl may be an appropriate hyponym of aid in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single price is commonly migration into a place (especially migration to a country of which you are not a native in order to settle there).", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A natural protective body covering and site of the sense of touch is not an appropriate definition of basketball.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Someone who purchases and maintains an inventory of goods to be sold is never an appropriate definition of stick.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Queen never refers to a male sovereign.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No front may commonly be the side that is seen or that goes first.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Demonstration does not stand for the quality of being worthy of esteem or respect.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single partner is commonly a superiority in numbers or amount.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A mode of conducting legal and parliamentary proceedings may be an appropriate definition of procedure.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Fork never refers to cutlery used for serving and eating food.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No pound may commonly be a public enclosure for stray or unlicensed dogs.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No consultation is a conference between two or more people to consider a particular question.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An electrical home appliance that cleans by suction is not an appropriate definition of fold in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts the sill of a door is an appropriate definition of garden.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Sweet fleshy red fruit is an appropriate definition of strawberry.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Community does not stand for the social act of separating or parting company.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A significant other to whom you are not related by marriage is never an appropriate definition of lover in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Conspiracy does not refer to the form in which a text (especially a printed book) is published.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A strong hard building material composed of sand and gravel and cement and water may not be an appropriate definition of concrete.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A scrap is commonly a small piece of something that is left over after the rest has been used.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A period of 10 years may be an appropriate definition of weather in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "The period during which a monarch is sovereign may be an appropriate definition of reign in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Drawing never stands for players buy (or are given) chances and prizes are distributed by casting lots.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A politically organized body of people under a single government is not an appropriate definition of country in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts the state or quality of being widely honored and acclaimed is an appropriate definition of consultation.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Formation does never stand for a building or place that provides a particular service or is used for a particular industry.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Bracket is not an appropriate hyponym of set in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Center refers to the enclosed compartment of an aircraft or spacecraft where passengers are carried.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A direct attack on an opponent's king is an appropriate definition of check in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A fraud is not a person who makes deceitful pretenses.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Calorie may not refer to the act of performing.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No guide is commonly something that offers basic information or instruction.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Terrace never refers to the contentment one feels when one has fulfilled a desire, need, or expectation.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts an ordered reference standard may be an appropriate definition of mouth.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A shoe consisting of a sole fastened by straps to the foot may be an appropriate definition of sandal.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts a person who makes deceitful pretenses may be an appropriate definition of fraud.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context rooms may be part of electricities.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A conflict is commonly a state of opposition between persons or ideas or interests.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Depression refers to an established line of travel or access.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Fold may not refer to an electrical home appliance that cleans by suction.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Duty stands for commodities (goods or services) bought from a foreign country.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Pause may not stand for information about recent and important events.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A section of text is never an appropriate definition of imagination.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Reference may refer to the quotient obtained when the magnitude of a part is divided by the magnitude of the whole.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single adult may be line that is the commercial organization responsible for operating a system of transportation for trains that pull passengers or freight.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Table stands for a piece of furniture with tableware for a meal laid out on it.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts a reproduction is a type of copy.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Rule commonly stands for the duration of a monarch's or government's power.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts a concentration is a type of attention.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Past may not stand for a reserve of money set aside for some purpose.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A heaven is a sudden loss of consciousness resulting when the rupture or occlusion of a blood vessel leads to oxygen lack in the brain.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context the solid part of the earth's surface may be an appropriate definition of ground.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Statement may refer to the act of affirming or asserting or stating something.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "The point where three areas or surfaces meet or intersect may be an appropriate definition of sanctuary in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Either of two punctuation marks (`<' or `>') used in computer programming and sometimes used to enclose textual material may be an appropriate definition of ocean in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Scale may commonly stand for an ordered reference standard.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A distinct feature or element in a problem is never an appropriate definition of aspect in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A track may be a thin pointed piece of metal that is hammered into materials as a fastener.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Grandmother commonly refers to the immaterial part of a person.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Mirror may commonly refer to polished surface that forms images by reflecting light.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts televisions are part of televisions.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context the opening through which food is taken in and vocalizations emerge is an appropriate definition of mouth.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single spectrum is commonly a broad range of related objects or values or qualities or ideas or activities.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Silver does never refer to a light shade of grey.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A call may not be a room equipped for preparing meals.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A whimsically eccentric person is not an appropriate definition of set.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context an appetite may be classified as an incident.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A meadow is a small open container usually used for drinking.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Damage may commonly refer to the occurrence of a change for the worse.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Hero does never stand for a large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments).", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single range may be the determination of a person's innocence or guilt by due process of law.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Circle and weakness are always different.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No nest is commonly the hollow muscular organ located behind the sternum and between the lungs.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell may be an appropriate definition of snail.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A liberty may be personal freedom from servitude or confinement or oppression.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Help may be an appropriate hypernym of staff.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No steam is a platform projecting from the wall of a building and surrounded by a balustrade or railing or parapet.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Frequency is an appropriate hyponym of welcome in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Adult may stand for line that is the commercial organization responsible for operating a system of transportation for trains that pull passengers or freight.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "The protruding part of the lower jaw is not an appropriate definition of chin in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Vertical space available to allow easy passage under something is an appropriate definition of clearance in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Kinship stands for relatedness or connection by blood or marriage or adoption.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Nights are commonly part of architectures.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a sunken or depressed geological formation may be an appropriate definition of census.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Daylight may refer to the sensation produced by pressure receptors in the skin.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An act of gracious kindness may be an appropriate definition of fool.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A bank is a side in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Total absence of light is an appropriate definition of ward.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No maid is commonly a female domestic.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Left is an appropriate synonym of chocolate.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No flour is commonly fine powdery foodstuff obtained by grinding and sifting the meal of a cereal grain.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a mathematical element that when added to another number yields the same number is an appropriate definition of zero.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A girl or young woman with whom a man is romantically involved may be an appropriate definition of girl in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Trolley commonly stands for a wheeled vehicle that runs on rails and is propelled by electricity.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A feeling of trust (in someone or something) may not be an appropriate definition of confidence in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A proposal is an offer of marriage.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single hole is an opening into or through something.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Success in satisfying a test or requirement is an appropriate definition of accent in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Visitor refers to someone who visits.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single spider is commonly an announcement of the events that will occur as part of a theatrical or sporting event.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Extension does never stand for a mutually agreed delay in the date set for the completion of a job or payment of a debt.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Any of numerous marine mammals that come on shore to breed may be an appropriate definition of seal in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No guerrilla may be a telephone connection.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single fortune may commonly be a large amount of wealth or prosperity.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A visitor to whom hospitality is extended is an appropriate definition of guest in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Formula commonly stands for a person of nearly the same age as another.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Wake commonly refers to a vigil held over a corpse the night before burial.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Marriage never refers to a person (or institution) to whom legal title to property is entrusted to use for another's benefit.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "One who loves and defends his or her country is not an appropriate definition of nationalist in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a public enclosure for stray or unlicensed dogs is an appropriate definition of pound.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Beneficiary is an appropriate hyponym of personality in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A person who requires medical care may be an appropriate definition of patient in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A jurisdiction may commonly be the right and power to interpret and apply the law.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No medal may commonly be an award for winning a championship or commemorating some other event.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A club may be an association in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single floor is commonly part of a hall.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a person or institution against whom an action is brought in a court of law may be an appropriate definition of defendant.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A document appraising the value of something (as for insurance or taxation) is not an appropriate definition of teacher.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a general and progressive increase in prices is an appropriate definition of inflation.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Glacier stands for a slowly moving mass of ice.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Climbing may lead to a publication in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Jump never stands for the organized action of making of goods and services for sale.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A wagon may be any of various kinds of wheeled vehicles drawn by an animal or a tractor.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Attic may not stand for floor consisting of open space at the top of a house just below roof.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Bolt does never refer to a cherished desire.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single compartment may be wealth in the form of money or property owned by a person or business and human resources of economic value.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Cord may commonly stand for a cut pile fabric with vertical ribs.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single Bible may be the sacred writings of the Christian religions.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A sale is not an occasion (usually brief) for buying at specially reduced prices.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No classroom may be part of a leg.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Feeling a need to see others suffer is an appropriate definition of trust in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single kite is plaything consisting of a light frame covered with tissue paper.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An award is never an event that might have been arranged although it was really accidental.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single search may be a barrier that serves to enclose an area.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Human bodies are part of persons in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A kit is commonly the crime of forcing a woman to submit to sexual intercourse against her will.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A key may be the state of being certain that adverse effects will not be caused by some agent under defined conditions.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A cluster is never classified as a society.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A pioneer may be a quality of spirit that enables you to face danger or pain without showing fear.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Sausage commonly refers to highly seasoned minced meat stuffed in casings.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context good repute is an appropriate definition of fault.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a mental position from which things are viewed is an appropriate definition of trainer.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single sun may be any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Firefighter stands for a member of a fire department who tries to extinguish fires.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Widow may not stand for a woman whose husband is dead especially one who has not remarried.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts activity by a military or naval force (as a maneuver or campaign) may be an appropriate definition of operation.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Worker does never refer to the food served and eaten at one time.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context the act of marrying is an appropriate definition of marriage.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No duke is a nobleman (in various countries) of high rank.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An absence of emotion or enthusiasm may be an appropriate definition of apathy in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "The science of matter may be an appropriate definition of chemistry in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A statement that is assumed to be true and from which a conclusion can be drawn is an appropriate definition of assumption in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Chemical does not stand for a visitor to whom hospitality is extended.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Soil never stands for device consisting of a piece of machinery.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No loop may be the front of the human head from the forehead to the chin and ear to ear.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single example may commonly be something to be imitated.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Drawers are part of chests in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An arm may commonly be a human limb.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A portion is commonly part of a meal.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A willpower is not a drama set to music.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Top never refers to the highest or uppermost side of anything.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Information is an appropriate hypernym of secret in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts a contract between two or more persons who agree to pool talent and money and share profits or losses may be an appropriate definition of partnership.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A musical organization consisting of a group of instrumentalists including string players is an appropriate definition of orchestra in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A reason is never a body serving in an administrative capacity.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single credit may commonly be a traditional story accepted as history.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A conductor is not a substance that readily conducts e.g. electricity and heat.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Imagination never refers to the ability to form mental images of things or events.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A stairway (set of steps) between one floor or landing and the next is never an appropriate definition of horizon in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A personality may be properties attributable to your ancestry.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No desire is commonly the feeling that accompanies an unsatisfied state.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Waist may be an appropriate hyponym of promotion in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A natural attraction or feeling of kinship may not be an appropriate definition of chin.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Industry does not refer to a unit of length equal to 3 feet.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts an association is classified as a phenomenon.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Waterfall does not refer to a possible alternative.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Registration does not stand for representation consisting of the scenery and other properties used to identify the location of a dramatic production.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "The basis on which something is grounded may be an appropriate definition of foundation in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Module never refers to the amount per unit size.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A connection may commonly be shifting from one form of transportation to another.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A general inclusive concept is not an appropriate definition of lion.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Order commonly stands for place of business where professional or clerical duties are performed.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Sail is never an appropriate hyponym of friendship.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Fair does never refer to horny plate covering and protecting part of the dorsal surface of the digits.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single mist may commonly be curved segment (of a road or river or railroad track etc.).", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "An access may commonly be the time of person's life when they are a child.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts transporting goods commercially at rates cheaper than express rates may be an appropriate definition of economics.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Rest is an appropriate hyponym of support in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An adviser is classified as an authority in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Charge may commonly refer to an assertion that someone is guilty of a fault or offence.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "An ivory is never a decorative interlacing of ribbons.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single love may be a beloved person.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A temptation may not be a recording made on magnetic tape.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Breakfast commonly refers to the first meal of the day (usually in the morning).", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A line of people or vehicles waiting for something is an appropriate definition of queue in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Balance commonly stands for harmonious arrangement or relation of parts or elements within a whole (as in a design).", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Tribes may be formed by relations, among other, in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An acute febrile highly contagious viral disease is never an appropriate definition of flu in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "School may commonly refer to a building where young people receive education.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Error does never stand for the recipient of funds or other benefits.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A goalkeeper is never a unit of time equal to 60 seconds or 1/60th of an hour.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single descent is a single distinct event.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Celebration never stands for the quality of being difficult.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus may not be an appropriate definition of crutch in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts an instrument with a handle and a flexible lash that is used for whipping is an appropriate definition of penalty.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Rumour may commonly stand for gossip (usually a mixture of truth and untruth) passed around by word of mouth.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A radio or television show is not an appropriate definition of program.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Acquaintance may not refer to a relationship less intimate than friendship.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A cotton may be a document granting an inventor sole rights to an invention.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A riot is not a wild gathering involving excessive drinking and promiscuity.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Cylinder is an appropriate hyponym of desire.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Employee may be an appropriate synonym of employer.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A fireplace in which a relatively small fire is burning may be an appropriate definition of memory.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A tooth may be one of a number of uniform projections on a gear.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Engagement does not stand for a mutual promise to marry.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Heroin may stand for a narcotic that is considered a hard drug.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a statement that contradicts itself may be an appropriate definition of riot.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A hypothetical description of a complex entity or process is never an appropriate definition of squad.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A proposition is never sports equipment used in calisthenic exercises and weightlifting.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Diamond may not stand for one of a series of ridges that moves across the surface of a liquid (especially across a large body of water).", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Voucher may commonly stand for a negotiable certificate that can be detached and redeemed as needed.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Slab may be an appropriate hypernym of tile in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A sentence is not a final judgment of guilty in a criminal case and the punishment that is imposed.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No agency is commonly a business that serves other businesses.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context the gears that transmit power from an automobile engine via the driveshaft to the live axle is an appropriate definition of transmission.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A crack may not be a plan in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A broad highway designed for high-speed traffic is never an appropriate definition of separation in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Responsibility and obligation are the same thing.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A misconception resulting from incorrect information may not be an appropriate definition of error in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Background and maximum are never the same thing.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A person who poses for a photographer or painter or sculptor may not be an appropriate definition of step.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single requirement may be a content word that can be used to refer to a person, place, thing, quality, or action.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "The chair of state for a monarch, bishop, etc. may not be an appropriate definition of court.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a genre of popular music originating in the 1950s is an appropriate definition of box.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Treatment may not stand for a person who investigates and reports or edits news stories.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A grain is never any distinct time period in a sequence of events.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Glass may refer to a joint between the distal end of the radius and the proximal row of carpal bones.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "The point or degree to which something extends is an appropriate definition of expansion in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Tissue stands for any of various long-tailed rodents similar to but larger than a mouse.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Sanctuary refers to a consecrated place where sacred objects are kept.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Compliance stands for acting according to certain accepted standards.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Printer never stands for an output device that prints the results of data processing.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A covering that serves to conceal or shelter something is an appropriate definition of cover in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single tyre may be a set of related records (either written or electronic) kept together.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A colony is commonly a geographical area politically controlled by a distant country.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Prayer may not stand for a small part of something intended as representative of the whole.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A rose may be a positive motivational influence.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No wire may be ligament made of metal and used to fasten things or make cages or fences etc.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Work that you are obliged to perform for moral or legal reasons is not an appropriate definition of anticipation in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No association may commonly be a formal organization of people or groups of people.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A band may be instrumentalists not including string players.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No leave is the period of time during which you are absent from work or duty.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Clothing in general may not be an appropriate definition of nationalist in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Language is an appropriate hypernym of tongue in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Unusual mental ability may not be an appropriate definition of genius.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A person who takes drugs is an appropriate definition of death.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single frustration may be an event (or the result of an event) that completely destroys something.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Earthquake may commonly refer to a three-dimensional shape with six square or rectangular sides.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Advantage may not stand for feelings of extreme heartlessness.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Registration does never stand for the act of enrolling.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Dozen does not stand for the cardinal number that is the sum of eleven and one.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts adult female chicken may be an appropriate definition of product.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Manager may commonly refer to that which is responsible for one's thoughts and feelings.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A recovery is not music of general appeal to teenagers.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Volume is an appropriate hypernym of dolphin.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Doubt is not an appropriate hypernym of suspicion in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "History is an appropriate hyponym of change in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No model may be a person who poses for a photographer or painter or sculptor.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Motion of hands or body to emphasize or help to express a thought or feeling may be an appropriate definition of guard in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Prescription may commonly refer to a drug that is available only with written instructions from a doctor or dentist to a pharmacist.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Comet may stand for a relatively small extraterrestrial body consisting of a frozen mass that travels around the sun in a highly elliptical orbit.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A side may commonly be a white crystalline carbohydrate used as a sweetener and preservative.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A girl or young woman with whom a man is romantically involved may be an appropriate definition of girl.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No study may be a woman religious.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A principle may commonly be a place for public (especially Christian) worship.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Inability to discharge all your debts as they come due is never an appropriate definition of verdict.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Proof is never an appropriate hyponym of grounds.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A politician is not a period of time equal to 1/24th of a day.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A flattened rigid plate forming part of the body covering of many animals is an appropriate definition of scale in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "The part of a scene (or picture) that lies behind objects in the foreground is an appropriate definition of headline in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Remark may not stand for a collection of things that have been combined.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A person who gives private instruction (as in singing, acting, etc.) is not an appropriate definition of suggestion in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Proposal may commonly stand for one of the horizontal airfoils on either side of the fuselage of an airplane.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A realism is an association in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Machinery that processes materials by grinding or crushing may not be an appropriate definition of inhabitant.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a district where people live is an appropriate definition of community.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "The gears that transmit power from an automobile engine via the driveshaft to the live axle may be an appropriate definition of laboratory in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Something that provides access (to get in or get out) is an appropriate definition of entry in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Servant commonly refers to a person working in the service of another (especially in the household).", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Headquarters may stand for the office that serves as the administrative center of an enterprise.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single fortune may commonly be arrangement for deferred payment for goods and services.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A way of access (upward and downward) consisting of a set of steps is never an appropriate definition of answer in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Accent does not refer to the usage or vocabulary that is characteristic of a specific group of people.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single anger may commonly be a strong emotion.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Pioneer may stand for someone who helps to open up a new line of research or technology or art.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A terrorist is classified as a radical.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "An indication of potential opportunity is an appropriate definition of drill in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "The countries of Asia may be an appropriate definition of East in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No sale is an occasion (usually brief) for buying at specially reduced prices.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Node is an appropriate hyponym of assumption in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A cemetery is not a tract of land used for burials.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A vivid mental image may be an appropriate definition of virtue.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "The spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay is an appropriate definition of view in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A short personal letter may be an appropriate definition of career in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Action commonly refers to a police officer who investigates crimes.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Several related operations aimed at achieving a particular goal (usually within geographical and temporal constraints) may be an appropriate definition of campaign in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Convention commonly stands for a large formal assembly.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a flour mixture stiff enough to knead or roll is an appropriate definition of dough.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A series may not be a periodical that appears at scheduled times.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context the absence of mental stress or anxiety is an appropriate definition of peace.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts the capability of conscious choice and decision and intention may be an appropriate definition of pig.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Excavation commonly refers to the amount per unit size.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Study may not stand for the time at which something is supposed to begin.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A garbage may not be food that is discarded (as from a kitchen).", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No set is a person who rules or guides or inspires others.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts a daughter is classified as a service.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Peace does not refer to the absence of mental stress or anxiety.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Mosquito does not stand for two-winged insect whose female has a long proboscis to pierce the skin and suck the blood of humans and animals.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single habitat may be the state of being emotionally aroused and worked up.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "White crystalline form of especially sodium chloride used to season and preserve food is never an appropriate definition of salt in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Grounds may be an appropriate hypernym of proof.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No basketball is commonly a game played on a court by two opposing teams of 5 players.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Rule may commonly refer to a standard procedure for solving a class of mathematical problems.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single equation may be a mathematical statement that two expressions are equal.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Lock may commonly refer to a periodical that publishes critical essays on current affairs or literature or art.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Minute may refer to a unit of time equal to 60 seconds or 1/60th of an hour.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Grain never stands for something that should remain hidden from others (especially information that is not to be passed on).", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Disadvantage may commonly refer to the quality of having an inferior or less favorable position.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Dressing is an appropriate hypernym of affinity in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No trust is commonly a consortium of independent organizations formed to limit competition by controlling the production and distribution of a product or service.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts a dinner is classified as a meal.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Small room in which a monk or nun lives may not be an appropriate definition of value.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Folk commonly refers to the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container).", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Expert does not refer to a person with special knowledge or ability who performs skillfully.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Infrastructure may stand for the basic structure or features of a system or organization.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Economy commonly refers to a terrifying or deeply upsetting dream.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Fortune may stand for a large amount of wealth or prosperity.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A solution is commonly an amount paid before it is earned.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A structure taller than its diameter is never an appropriate definition of tower.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No politics may be an amount of money expressed numerically.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single waste may be any materials unused and rejected as worthless or unwanted.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single operation may be water soaked soil.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Bath does never refer to any substance having the consistency of jelly or gelatin.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No fuss may commonly be a rapid active commotion.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context the spontaneous disintegration of a radioactive substance along with the emission of ionizing radiation is an appropriate definition of decay.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Settlement never stands for a collection of precious things.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Support commonly refers to a plan for attaining a particular goal.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A tear is made of water in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context an index may be a type of finger.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A musical work that has been created may be an appropriate definition of cell in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Temptation refers to a recording made on magnetic tape.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A history may not be something that is lost.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A group of things of the same kind that belong together and are so used may be an appropriate definition of set in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A tank is never an enclosed armored military vehicle.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts reading may lead to a mark.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single imagination may be the ability to form mental images of things or events.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a mistake resulting from neglect may be an appropriate definition of omission.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Man may stand for any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Assumption stands for the process of perceiving.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A link or loop or knot made by an implement in knitting, crocheting, embroidery, or sewing is an appropriate definition of activity in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Tissue may commonly stand for any of various long-tailed rodents similar to but larger than a mouse.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Conformity to reality or actuality is not an appropriate definition of achievement in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts features may be part of attentions.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a container that holds a magnetic tape used for recording or playing sound or video may be an appropriate definition of cassette.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A fool is a person who lacks good judgment.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No charge may commonly be the activities of educating or instructing.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A performance of music by players or singers not involving theatrical staging may be an appropriate definition of concert in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts an officer charged with receiving and disbursing funds is an appropriate definition of treasurer.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Orange commonly refers to round yellow to orange fruit of any of several citrus trees.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts a development is a type of emotion.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Sleeve commonly refers to the part of a garment that is attached at the armhole and that provides a cloth covering for the arm.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A gravel is commonly rock fragments and pebbles.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A head may be the accumulation of knowledge or skill that results from direct participation in events or activities.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single cup is a small open container usually used for drinking.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts a small amount of solid food is an appropriate definition of morsel.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A fortune may not be a postulated sequence of possible events.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context any state or process known through the senses rather than by intuition or reasoning may be an appropriate definition of spokesman.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A small package or bundle may be an appropriate definition of packet in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts an application may be a request.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No production may commonly be a model considered worthy of imitation.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Toe may stand for social insect living in organized colonies.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Someone who administers a business may be an appropriate definition of administrator.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No degree is a position on a scale of intensity or amount or quality.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "The operation of aircraft to provide transportation is not an appropriate definition of aviation in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "The act of conducting a controlled test or investigation is an appropriate definition of urge in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A small area of ground covered by specific vegetation is never an appropriate definition of patch.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An intellectual hold or understanding is never an appropriate definition of grip.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A building or place that provides a particular service or is used for a particular industry is not an appropriate definition of favour.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A monster may be a small part of something intended as representative of the whole.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts body covering of a living animal may be an appropriate definition of disturbance.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Network does not stand for a cessation of normal operation.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A quota may be classified as an allocation.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No wall is commonly an architectural partition with a height and length greater than its thickness.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Hostility stands for a state of deep-seated ill-will.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No chocolate may be a place for public (especially Christian) worship.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A prestige is a written work (as a novel) that has been recast in a new form.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Clock does not refer to an award conferred by a college or university signifying that the recipient has satisfactorily completed a course of study.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No cell may commonly be a mild viral infection involving the nose and respiratory passages (but not the lungs).", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A comment or instruction (usually added) is not an appropriate definition of corner in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A balance is not equality between the totals of the credit and debit sides of an account.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "State does not refer to written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in read/write memory.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No thread may be a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A piece of soft material that covers and protects an injured part of the body is not an appropriate definition of daughter.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No sun may commonly be a human limb.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Rose never refers to a positive motivational influence.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Spread never stands for farm consisting of a large tract of land along with facilities needed to raise livestock (especially cattle).", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Guarantee never stands for a written assurance that some product or service will be provided or will meet certain specifications.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single voucher is a negotiable certificate that can be detached and redeemed as needed.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Outlet may not stand for a natural and periodic state of rest during which consciousness of the world is suspended.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Card may commonly stand for any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A spirit is commonly the intended meaning of a communication.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A periodically repeated sequence of events is an appropriate definition of check.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Taxpayer never refers to compartment in an automobile that carries luggage or shopping or tools.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts productive work (especially physical work done for wages) may be an appropriate definition of labour.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Employment may commonly refer to the state of being employed or having a job.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Charge does not refer to the road consisting of railroad track and roadbed.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Accent and youth are not always different.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single West may commonly be the countries of (originally) Europe and (now including) North America and South America.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A star may commonly be body covering of a living animal.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Band may not refer to salty fluid secreted by sweat glands.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Country commonly stands for a politically organized body of people under a single government.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A band to tie or buckle around the body (usually at the waist) is not an appropriate definition of belt.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No explosion is the narrowing of the body between the ribs and hips.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Page stands for a proportion in relation to a whole (which is usually the amount per hundred).", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A creature of Teutonic mythology is an appropriate definition of dragon.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a number is made of clay.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts a freckle is part of a reduction.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No context may be discourse that surrounds a language unit and helps to determine its interpretation.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A hired laborer on a farm or ranch may not be an appropriate definition of hand.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Economy may commonly stand for the system of production and distribution and consumption.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "The dressed hairy coat of a mammal may not be an appropriate definition of fur.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Jar is an appropriate hyponym of contradiction.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Race refers to people who are believed to belong to the same genetic stock.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Attraction may not be an appropriate hypernym of consultation in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Stand may not stand for a booth where articles are displayed for sale.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No award is commonly an event that might have been arranged although it was really accidental.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Opponent commonly stands for a statement that affirms or denies something and is either true or false.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Jaw commonly refers to the part of the skull of a vertebrate that frames the mouth and holds the teeth.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Applicant may stand for a person who requests or seeks something such as assistance or employment or admission.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A chart or map showing the movements or progress of an object is an appropriate definition of continuation in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Scene may commonly stand for the context and environment in which something is set.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Fall may commonly refer to an associate who provides cooperation or assistance.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A week may not be part of a peace in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "An expectation may be an appropriate definition of anticipation.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "The state of being connected is an appropriate definition of connection.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Racism does not stand for red color or pigment.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "An honour is not the state of being honored.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Hand does never refer to an opening in a wall or screen that admits light and air and through which customers can be served.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A subject may be the arch of hair above each eye.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Servant is not an appropriate hyponym of worker in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Scholar does never refer to the principal activity in your life that you do to earn money.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts result is the synonym of unemployment.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single taste may be the faculty of distinguishing sweet, sour, bitter, and salty properties in the mouth.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A survey is never a summary.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A separate part of a whole is never an appropriate definition of piece in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An anticipated outcome that is intended or that guides your planned actions may not be an appropriate definition of purpose in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Report is an appropriate hyponym of emotion in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts the number of occurrences within a given time period may be an appropriate definition of expertise.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An abbey is classified as an arrangement.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Resort is not an appropriate hyponym of prejudice in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A set is never a whimsically eccentric person.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A collection of objects laid on top of each other may be an appropriate definition of pile in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "The faculty that enables us to distinguish scents is an appropriate definition of smell in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a heavy ductile magnetic metallic element may be an appropriate definition of struggle.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Relations are members of cuttings in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A fireplace in which a relatively small fire is burning may not be an appropriate definition of memory.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A single organism may not be an appropriate definition of will in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "An answer is not the speech act of replying to a question.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A vessel is an object used as a container (especially for liquids).", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A cabinet is a politically organized body of people under a single government.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A fundamental feeling that is hard to define but that people desire to experience may not be an appropriate definition of pleasure in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Answer commonly stands for an instance of questioning.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No drift is commonly a single complete turn (axial or orbital).", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Meadow does never stand for a field where grass or alfalfa are grown to be made into hay.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A crocheted or knitted garment covering the upper part of the body may be an appropriate definition of sweater.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Champagne commonly stands for a race between candidates for elective office.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A periodically repeated sequence of events is never an appropriate definition of check.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Burn commonly refers to a browning of the skin resulting from exposure to the rays of the sun.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A date is commonly a meeting arranged in advance.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "An intuitive understanding of something may be an appropriate definition of feeling in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A female member of a royal family other than the queen (especially the daughter of a sovereign) is never an appropriate definition of maze.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A response may result from answering.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A person (usually but not necessarily a woman) who is thoroughly disliked may be an appropriate definition of sheet in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A person who is in a position to give you special assistance is an appropriate definition of frame in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A seller is commonly an actor's portrayal of someone in a play.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A mechanism may commonly be device consisting of a piece of machinery.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single justification is buying and selling.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context freedom to choose a pastime or enjoyable activity may be an appropriate definition of leisure.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A college may be intense sorrow caused by loss of a loved one (especially by death).", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No constitution may be an era of history having some distinctive feature.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Track never stands for a course over which races are run.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A form is commonly a vote to select the winner of a position or political office.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single inside is the region that is inside of something.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An air may be a mixture of gases (especially oxygen) required for breathing.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A loan may commonly be the temporary provision of money (usually at interest).", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single equation may be a person who keeps watch over something or someone.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A string is anything apparently limitless in quantity or volume.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single march is commonly genre of music written for marching.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A symmetry may commonly be the extreme end of something.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "The process of taking food into the body through the mouth (as by eating) may be an appropriate definition of visitor in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "End may not stand for an output device that prints the results of data processing.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single uncle may commonly be the brother of your father or mother.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An assistant who handles correspondence and clerical work for a boss or an organization may be an appropriate definition of secretary.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A small portable battery-powered electric lamp may not be an appropriate definition of postcard.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A self may commonly be a large distance.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts an unknown and unpredictable phenomenon that leads to a favorable outcome may be an appropriate definition of fortune.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Risk does never stand for part of a church divided laterally from the nave proper by rows of pillars or columns.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Secretion may not stand for a functionally specialized substance (especially one that is not a waste) released from a gland or cell.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Arms are part of nests in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A bit of tissue or blood or urine that is taken for diagnostic purposes is an appropriate definition of honour.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No revival is commonly bringing again into activity and prominence.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Rings may not be part of cooperations in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a glow may be classified as a speech.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "The act of bringing something to bear may be an appropriate definition of microphone.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A vivid mental image is an appropriate definition of vision in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A deposit is commonly water at boiling temperature diffused in the atmosphere.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "The formal act of approving may be an appropriate definition of approval in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single gallon is commonly a consequence of someone's efforts or of a particular set of circumstances.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A body may not be the flat part of a tool or weapon that (usually) has a cutting edge.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No boy is a soul.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A position is not classified as an attitude in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Wake does not refer to a vigil held over a corpse the night before burial.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Tip is not an appropriate hyponym of direction in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single projection may commonly be a prediction made by extrapolating from past observations.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A facial expression characterized by turning up the corners of the mouth is never an appropriate definition of divorce in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No care is the social act of assembling.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "An Opposition may be a party in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Anticipating with confidence of fulfillment is an appropriate definition of expectation in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An interview is an army unit large enough to sustain combat.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An act of help or assistance is an appropriate definition of service.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts an aircraft without wings that obtains its lift from the rotation of overhead blades may be an appropriate definition of helicopter.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a trade may be classified as a transaction.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Rhetoric is an appropriate hyponym of force in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "An expansion is the act of increasing (something) in size or volume or quantity or scope.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A spy who works against enemy espionage is never an appropriate definition of mole in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An intelligence is not a body serving in an administrative capacity.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "The effect of one thing (or person) on another may not be an appropriate definition of influence in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A statement that deviates from or perverts the truth is not an appropriate definition of correlation.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A draft may not be any of the various versions in the development of a written work.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Feet may not be part of yards in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A conspiracy may be classified as a plot.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a correspondence is classified as a reference.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Executive does not stand for one of two antipodal points where the Earth's axis of rotation intersects the Earth's surface.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Balance commonly refers to the part of the alimentary canal between the stomach and the anus.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Money never refers to lake used to store water for community use.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A particular course of action intended to achieve a result is an appropriate definition of party in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Pier may not be an appropriate hyponym of support in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A network is never an interconnected system of things or people.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts plundering during riots or in wartime may be an appropriate definition of characteristic.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Headline is not an appropriate hyponym of break in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No envelope is a piece of paper money worth one dollar.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A log may not be any piece of work that is undertaken or attempted.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts an aviation is classified as a number.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A hardship is never a state of misfortune or affliction.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Dose does never stand for a hard crystalline metamorphic rock that takes a high polish.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Academy does never refer to a learned establishment for the advancement of knowledge.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context spinning leads to a definition.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Circle refers to ellipse in which the two axes are of equal length.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Isolation may commonly refer to a state of separation between persons or groups.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Wording may stand for the manner in which something is expressed in words.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Use commonly stands for a statement that is necessarily false.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella is not an appropriate definition of traffic in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A baby may be a transaction in no context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Medium does never refer to a state that is intermediate between extremes.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "The flat area on either side of the forehead is never an appropriate definition of temple in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A fool may not be a lively interest.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "House refers to unusual mental ability.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "An Opposition is not the spontaneous disintegration of a radioactive substance along with the emission of ionizing radiation.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "The feel of a surface or a fabric is never an appropriate definition of album.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts a goalkeeper is a vessel.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A functionally specialized substance (especially one that is not a waste) released from a gland or cell may be an appropriate definition of secretion in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Any system of principles or beliefs is not an appropriate definition of creed in any context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts a piece of land cleared of trees and usually enclosed is an appropriate definition of tape.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No network is a system.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Innovation does not refer to a creation (a new device or process) resulting from study and experimentation.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Penny refers to the act of bringing something to bear.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Study and report are synonyms.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts an occurrence that causes special pleasure or delight is an appropriate definition of treat.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context an experience is an account.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A printed document with spaces in which to write may be an appropriate definition of banana.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Tea does not refer to a thin fog with condensation near the ground.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts two-winged insect whose female has a long proboscis to pierce the skin and suck the blood of humans and animals may be an appropriate definition of mosquito.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Root stands for someone from whom you are descended (but usually more remote than a grandparent).", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Aid is an appropriate hypernym of bowl in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "The state of being with someone is never an appropriate definition of item in any context.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "An instance of change is an appropriate definition of variation.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Fall may commonly stand for the state of being saved or preserved from harm.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No shift is the act of changing one thing or position for another.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a content is a volume.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Minimum is never the synonym of maximum.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a radiogram made by exposing photographic film to X rays may be an appropriate definition of X-ray.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Base stands for a support or foundation.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver is an appropriate definition of cell in certain contexts.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No waist may commonly be a thin pointed piece of metal that is hammered into materials as a fastener.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A person who investigates and reports or edits news stories may be an appropriate definition of treatment.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In no context a check may be a type of inhabitant.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts uncle may be the synonym of aunt.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Bracket refers to any of numerous agile ruminants related to sheep but having a beard and straight horns.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Not a single example is the natural physical world including plants and animals and landscapes etc..", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A male spokesperson is an appropriate definition of spokesman.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A timepiece that shows the time of day is an appropriate definition of clock in no context.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Bomber may commonly refer to anything apparently limitless in quantity or volume.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts a concise explanation of the meaning of a word or phrase or symbol may be an appropriate definition of date.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "No point may be an award for winning a championship or commemorating some other event.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A performance of music by players or singers not involving theatrical staging is not an appropriate definition of concert.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A notebook may not be a small compact portable computer.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A radio or television show may be an appropriate definition of program.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts the questioning of a person (or a conversation in which information is elicited) is an appropriate definition of vote.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Half does never refer to a boat that transports people or vehicles across a body of water and operates on a regular schedule.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "Difference does never refer to the number that remains after subtraction.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "The activities of educating or instructing is not an appropriate definition of suspicion.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "In certain contexts a father or mother is an appropriate definition of confrontation.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Soap does not refer to one of the twelve divisions of the calendar year.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "The quality of being reproducible in amount or performance may be an appropriate definition of peak.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Potteries are never made of clay.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "Charm may refer to something believed to bring good luck.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "No radio may commonly be a communication system based on broadcasting electromagnetic waves.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A person who is confined is an appropriate definition of help in certain contexts.", "label": 0, "difficulty": 0, "domain": "dataset"}
+{"text": "A motorway is a broad highway designed for high-speed traffic.", "label": 1, "difficulty": 0, "domain": "dataset"}
+{"text": "A biography is never a history.", "label": 0, "difficulty": 0, "domain": "dataset"}

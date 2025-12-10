@@ -1,0 +1,4 @@
+{"round": 0, "accuracy": 0.5133333333333333, "mix_ratio": 0.0}
+{"round": 1, "accuracy": 0.5466666666666666, "mix_ratio": 0.5, "difficulty": 1, "hard_examples": 40}
+{"round": 2, "accuracy": 0.56, "mix_ratio": 0.5, "difficulty": 2, "hard_examples": 40}
+{"round": 3, "accuracy": 0.5533333333333333, "mix_ratio": 0.5, "difficulty": 2, "hard_examples": 40}
